@@ -14,7 +14,6 @@ import matplotlib.pyplot as plt
 import matplotlib.cm as cm
 import pandas as pd
 import time
-import constants
 import pickle
 import sys
 import os

@@ -1,0 +1,7 @@
+Elasticsearch
+sklearn
+numpy
+scipy
+nltk
+matplotlib
+pandas
